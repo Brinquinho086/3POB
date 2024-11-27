@@ -1,0 +1,4 @@
+134;Gerente;Joao;3488.0
+567;GerenteDesenvolvedor;Lucas;7222.0
+512;Desenvolvedor;Maria;4000.0
+209;Treinador;Ana;5000.0
